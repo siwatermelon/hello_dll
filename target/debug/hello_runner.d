@@ -1,0 +1,1 @@
+C:\Users\fuck-ubuntu\Desktop\test\hello_dll\target\debug\hello_runner.exe: C:\Users\fuck-ubuntu\Desktop\test\hello_dll\hello\src\lib.rs C:\Users\fuck-ubuntu\Desktop\test\hello_dll\hello_runner\src\main.rs
